@@ -2,7 +2,7 @@
 This contains files for some of my personal CAD projects. 
 
 Sterling Engine: I designed parts for and assembled a moving Sterling engine. Based on these designs, I am currently machining the parts to build a real working engine. 
-- Renderings are also viewable at these links:
+- Renderings are viewable at here:
 - Rear view: https://www.dropbox.com/s/eramqlwvlocdq25/Engine%20render%202.JPG?dl=0
 - Front view: https://www.dropbox.com/s/6b3imku2uwc9eq1/Engine%20Render%203.JPG?dl=0 
 
