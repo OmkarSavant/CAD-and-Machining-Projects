@@ -1,4 +1,4 @@
-# Solidworks-Projects
+# See Work Here:
 This contains files for some of my personal CAD and Machining projects. 
 
 Stirling Engine: I designed parts for and assembled a moving Stirling Heat engine. Based on these designs, I machined the parts to build a working engine that had a max speed of 1516 RPM. 
