@@ -1,7 +1,12 @@
 # Solidworks-Projects
-This contains files for some of my personal CAD projects. 
+This contains files for some of my personal CAD and Machining projects. 
 
-Sterling Engine: I designed parts for and assembled a moving Sterling engine. Based on these designs, I am currently machining the parts to build a real working engine. 
+Stirling Engine: I designed parts for and assembled a moving Stirling Heat engine. Based on these designs, I machined the parts to build a working engine that had a max speed of 1516 RPM. 
+
+- The final engine is viewable here: 
+- Rear view: https://www.dropbox.com/s/z3lwv4eat6rrkcy/IMG_9410.jpg?dl=0
+- Front view: https://www.dropbox.com/s/l4x6ilmn732qwko/IMG_9408.jpg?dl=0
+
 - Renderings are viewable at here:
 - Rear view: https://www.dropbox.com/s/eramqlwvlocdq25/Engine%20render%202.JPG?dl=0
 - Front view: https://www.dropbox.com/s/6b3imku2uwc9eq1/Engine%20Render%203.JPG?dl=0 
