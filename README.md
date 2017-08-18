@@ -1,7 +1,7 @@
 # See Work Here:
 This contains files for some of my personal CAD and Machining projects. 
 
-Stirling Engine: I designed parts for and assembled a moving Stirling Heat engine. Based on these designs, I machined the parts to build a working engine that had a max speed of 1516 RPM. 
+1) Stirling Engine: I designed parts for and assembled a moving Stirling Heat engine. Based on these designs, I machined the parts to build a working engine that had a max speed of 1516 RPM. 
 
 - The working engine is viewable here: 
 - Rear view: 
@@ -18,11 +18,11 @@ Stirling Engine: I designed parts for and assembled a moving Stirling Heat engin
 - Front view:
 ![engine render 3](https://user-images.githubusercontent.com/12130094/29476935-0e20c81c-841b-11e7-89c0-08b21e68afb8.JPG)
 
-Blender dissection: The design and assembly of a Hamilton Beach blender.
+2) Blender dissection: The design and assembly of a Hamilton Beach blender.
 - I designed the entire motor assembly, casing, and blade.
 - Rendering video: https://drive.google.com/open?id=0B6xfG0k238kVUEhLLTN2OHFkems
 
-Drone Stereo Camera Vibration Mount: This is a vibration isolation mount that uses Silicon rings to minimize camera vibrations. 
+3) Drone Stereo Camera Vibration Mount: This is a vibration isolation mount that uses Silicon rings to minimize camera vibrations. 
 
 ![img_7873](https://user-images.githubusercontent.com/12130094/29478726-3500373a-8423-11e7-8506-ed60c1e41fc9.JPG)
 
