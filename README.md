@@ -20,8 +20,8 @@ Stirling Engine: I designed parts for and assembled a moving Stirling Heat engin
 
 
 Blender dissection: The design and assembly of a Hamilton Beach blender.
+- I designed the entire motor assembly, casing, and blade.
 - Rendering video: https://drive.google.com/file/d/0B-HXEaIAFabPekJjeWNIVzFTb1U/view?usp=sharing
-- I designed the motor assembly, casing, and blades and my teammates designed the other parts.
   
 
 
